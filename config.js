@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "Yo no te quiero, yo te amo! ❤️"           // Secret hover message
         },
         second: {
-            text: "Cuanto me ammas?",                          // For the love meter
+            text: "Cuanto me amas?",                          // For the love meter
             startText: "Muchisimo",                                   // Text before the percentage
             nextBtn: "Siguiente ❤️"                                         // Text for the next button
         },
