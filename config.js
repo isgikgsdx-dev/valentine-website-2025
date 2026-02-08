@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "ERES MI PERSONA FAVORITA  🎉💝💖💝💓",
-        message: "Tenemos una cita el 14 de febrero 💖💝, por cierto nos vamos a Tampico juntas?",
+        message: "Tenemos una cita el 14 de febrero 💖💝, por cierto me dejas acopañarte a Tampico?",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
